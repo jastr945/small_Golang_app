@@ -9,4 +9,4 @@ $ go build first_steps.go
 $ ./first_steps
 ```
 
-Open the browser and visit http://localhost:8080/view/<your name>
+Open the browser and visit "http://localhost:8080/edit/<your name>"
