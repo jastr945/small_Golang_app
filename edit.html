@@ -1,0 +1,5 @@
+<h1>How is your day going, {{.Name}}?</h1>
+<form action="/save/{{.Name}}" method="POST">
+  <div><textarea name="body" rows="20" cols="80">{{printf "%s" .Body}}</textarea></div>
+  <div><input type="submit" value="Answer"></div>
+</form>

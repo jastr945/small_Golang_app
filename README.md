@@ -1,2 +1,3 @@
-# small_Golang_app
-A small Go app created with the help of the official tutorial
+# A Small Golang App
+
+This is a small app written in Goland with the help of the official tutorial http://golang.org/.
